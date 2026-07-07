@@ -1,0 +1,2 @@
+# Trade
+First trade bot
